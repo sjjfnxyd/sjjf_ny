@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.202.17.126:8070/PalmBiServer/PalmBi_App/hbbi.ipa</string>
+					<string>http://218.203.120.19:28080/PalmBiServer/PalmBi_App/Mobile.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.MBBI.CMCC.HB</string>
+				<string>com.bonc.MBBI.CMCC.NX</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上分析</string>
+				<string>宁夏移动手机经分</string>
 			</dict>
 		</dict>
 	</array>
